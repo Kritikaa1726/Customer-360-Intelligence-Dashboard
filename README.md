@@ -3,9 +3,12 @@
 An interactive four-page Power BI dashboard built to analyze customer behavior, retention performance, churn patterns, customer lifetime value (CLV), RFM segments, and support ticket trends — providing a consolidated view of customer health and business performance.
 
 
+
 🎯 Business Context
 
+
 Understanding customer behavior is essential for businesses looking to improve retention, reduce churn, and maximize customer lifetime value. Customer analytics helps business teams identify valuable customer segments, monitor customer satisfaction, and develop targeted retention strategies.
+
 
 This dashboard was built to explore questions like:
 
@@ -30,10 +33,13 @@ This dashboard was built to explore questions like:
 
 
 
+
+
 🖥️ Dashboard Overview Page	
 
 
 What it shows-
+
 
 -Customer 360° Intelligence	Customer KPIs, total revenue, average CLV, churn and retention rates, monthly revenue trends, customer distribution by city, acquisition channel analysis, and product revenue
 
@@ -44,14 +50,21 @@ What it shows-
 -Retention Strategy	Customer status distribution, satisfaction by issue type, support tickets by issue type, customer details, and interactive filters
 
 
+
+
 🧩 Data Model:
+
+
 
 The dashboard analyzes customer-related information, including customer IDs, customer status, RFM segments, estimated customer lifetime value, city, gender, membership, issue types, support tickets, revenue, and other available business attributes.
 
 The report uses these fields to compare customer groups and investigate patterns related to retention, churn, and customer value.
 
 
+
+
 🛠️ Tools & Skills Used:
+
 
 
 -Power BI Desktop — dashboard development and interactive reporting
@@ -71,7 +84,11 @@ The report uses these fields to compare customer groups and investigate patterns
 -Business Intelligence — translating customer data into actionable insights
 
 
+
+
 Skills Demonstrated:
+
+
 
 -Customer retention and churn analysis
 
@@ -93,7 +110,10 @@ Skills Demonstrated:
 
 
 
+
 📊 Key KPIs:
+
+
 
 The dashboard tracks the following metrics, where available:
 
@@ -125,6 +145,8 @@ The dashboard tracks the following metrics, where available:
 
 📂 Repository Structure:
 
+
+
 customer-360-analytics-powerbi/
 │
 ├── images/<img width="777" height="505" alt="1" src="https://github.com/user-attachments/assets/0bcd8a0f-7c4b-480b-8351-e36283ac58a0" />
@@ -138,7 +160,10 @@ customer-360-analytics-powerbi/
 └── README.md
 
 
+
+
 🚀 How to Use:
+
 
 Clone or download this repository.
 
@@ -153,50 +178,58 @@ Refresh the data if the source files are available.
 Explore all four dashboard pages using the interactive slicers and filters.
 
 
+
+
 🎨 Dashboard Features:
 
-Consistent dark-themed dashboard design
-
-Interactive KPI cards
-
-Customer status distribution
-
-Monthly revenue trend analysis
-
-Customer analysis by city and acquisition channel
-
-RFM customer segmentation
-
-Customer lifetime value comparison by segment
-
-Churn analysis by age group
-
-Customer satisfaction by issue type
-
-Support ticket distribution
-
-High-value customer analysis
-
-Customer-level detail tables
-
-Interactive slicers for Date Range, City, Gender, Membership, RFM Segment, and Customer Status
 
 
-💡 Business Applications
+-Consistent dark-themed dashboard design
 
-The dashboard can help analysts and business teams explore opportunities to:
+-Interactive KPI cards
 
-Identify customers who may require retention campaigns.
+-Customer status distribution
 
-Develop re-engagement strategies for lost customers.
+-Monthly revenue trend analysis
 
-Prioritize high-value customer segments.
+-Customer analysis by city and acquisition channel
 
-Investigate customer support issues and satisfaction patterns.
+-RFM customer segmentation
 
-Compare customer value across RFM segments and membership categories.
+-Customer lifetime value comparison by segment
 
-Monitor customer health and revenue-related KPIs.
+-Churn analysis by age group
+
+-Customer satisfaction by issue type
+
+-Support ticket distribution
+
+-High-value customer analysis
+
+-Customer-level detail tables
+
+-Interactive slicers for Date Range, City, Gender, Membership, RFM Segment, and Customer Status
+
+
+
+
+💡 Business Applications:
+
+
+
+-The dashboard can help analysts and business teams explore opportunities to:
+
+-Identify customers who may require retention campaigns.
+
+-Develop re-engagement strategies for lost customers.
+
+-Prioritize high-value customer segments.
+
+-Investigate customer support issues and satisfaction patterns.
+
+-Compare customer value across RFM segments and membership categories.
+
+-Monitor customer health and revenue-related KPIs.
 
 These are potential applications of the dashboard; actual findings and business outcomes should be validated using the underlying data.
 
